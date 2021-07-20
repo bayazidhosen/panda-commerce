@@ -19,3 +19,36 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1{
+    background-color: darkorange;
+}
+.cat2{
+    background-color: hotpink;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px ;
+    border-radius: 10px;
+}
+#contact{
+    height: 300px;
+}
+#contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
